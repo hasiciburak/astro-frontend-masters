@@ -10,12 +10,21 @@
 		"astro": "astro"
 	},
 	"dependencies": {
-		"astro": "^2.5.5"
+		"@astrojs/react": "^4.1.6",
+		"@astrojs/solid-js": "^5.0.4",
+		"@nanostores/react": "^0.8.4",
+		"@nanostores/solid": "^0.5.0",
+		"@unpic/astro": "^1.0.0",
+		"astro": "^2.5.5",
+		"nanostores": "^0.11.3",
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1",
+		"solid-js": "^1.9.4"
 	},
 	"devDependencies": {
 		"@types/markdown-it": "^12.2.3",
-		"@types/react": "^18.2.7",
-		"@types/react-dom": "^18.2.4",
+		"@types/react": "^18.3.18",
+		"@types/react-dom": "^18.3.5",
 		"@types/sanitize-html": "^2.9.0"
 	}
 }
